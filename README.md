@@ -20,5 +20,5 @@ I enjoy transforming raw data into meaningful business insights using analytics 
 
 ## Connect with Me
 
-* LinkedIn *(add your profile link later)*
+* LinkedIn: https://www.linkedin.com/in/shubham-jena-662b29369
 * Email: [subhamjena412@gmail.com](mailto:subhamjena412@gmail.com)
