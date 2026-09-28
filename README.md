@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Shubham Jena 👋
 
-<!--
-**shubhamjena-analytics/shubhamjena-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst from India
 
-Here are some ideas to get you started:
+I enjoy transforming raw data into meaningful business insights using analytics and visualization tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Excel
+* SQL
+* Power BI
+* Tableau
+* Python (Learning)
+
+## Current Projects
+
+* Healthcare Analytics Dashboard (Tableau)
+* Retail Chain Profit Leakage & Demand Optimization
+* Excel KPI Dashboard
+
+## Connect with Me
+
+* LinkedIn *(add your profile link later)*
+* Email: [subhamjena412@gmail.com](mailto:subhamjena412@gmail.com)
